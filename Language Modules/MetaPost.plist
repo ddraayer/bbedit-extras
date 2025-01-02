@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BBEditDocumentType</key>
+		<string>CodelessLanguageModule</string>
+	<key>BBLMLanguageDisplayName</key>
+		<string>MetaPost</string>
+	<key>BBLMLanguageCode</key>
+		<string>MPst</string>
+	<key>BBLMSuffixMap</key>
+		<array>
+			<dict>
+				<key>BBLMLanguageSuffix</key>
+					<string>.mp</string>
+			</dict>
+		</array>
+	<key>BBLMSupportsTextCompletion</key>
+		<true/>
+	<key>BBLMIsCaseSensitive</key>
+		<true/>
+	<key>BBLMScansFunctions</key>
+		<true/>
+	<key>BBLMColorsSyntax</key>
+		<true/>
+
+	<key>BBLMKeywordList</key>
+		<array>
+		</array>
+
+	<key>BBLMPredefinedNameList</key>
+		<array>
+		</array>
+
+	<key>BBLMCommentLineDefault</key>
+		<string>%</string>
+
+	<key>Language Features</key>
+		<dict>
+			<key>Identifier and Keyword Character Class</key>
+				<string>A-Za-z_</string>
+
+			<key>Open Line Comments</key>
+				<string>%</string>
+
+			<key>Open Strings 1</key>
+				<string>"</string>
+			<key>Close Strings 1</key>
+				<string>"</string>
+		</dict>
+</dict>
+</plist>
