@@ -396,6 +396,16 @@
 				<string>"</string>
 			<key>Close Strings 1</key>
 				<string>"</string>
+
+			<key>Function Pattern</key>
+				<string><![CDATA[
+					(?xsm:^(?P<function>
+						(?P<function_name>
+							(def\b|vardef\b|nextfig\b|beginfig\(\d+\)).*?$
+						)
+						.*?\b(enddef|endfig)\s*;?
+					))
+				]]></string>
 		</dict>
 </dict>
 </plist>
