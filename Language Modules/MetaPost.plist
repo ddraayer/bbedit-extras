@@ -31,6 +31,7 @@
 		<string>endgroup</string>
 		<string>beginfig</string>
 		<string>endfig</string>
+		<string>input</string>
 
 		<string>def</string>
 		<string>vardef</string>
@@ -45,6 +46,7 @@
 		<string>primarydef</string>
 		<string>secondarydef</string>
 		<string>tertiarydef</string>
+		<string>newinternal</string>
 
 		<string>drawoptions</string>
 		<string>label</string>
@@ -80,6 +82,8 @@
 		<string>forsuffixes</string>
 		<string>forever</string>
 		<string>endfor</string>
+		<string>exitif</string>
+		<string>exitunless</string>
 		<string>upto</string>
 		<string>downto</string>
 		<string>step</string>
@@ -111,6 +115,7 @@
 		<string>write</string>
 		<string>to</string>
 		<string>readfrom</string>
+		<string>readstring</string>
 		<string>closefrom</string>
 
 		<string>addto</string>
@@ -146,7 +151,9 @@
 		<string>errmessage</string>
 		<string>filenametemplate</string>
 		<string>message</string>
-		<string>newinternal</string>
+		<string>stop</string>
+		<string>gobble</string>
+		<string>hide</string>
 
 		<string>fontmapfile</string>
 		<string>fontmapline</string>
@@ -338,6 +345,7 @@
 		<string>extra_beginfig</string>
 		<string>extra_endfig</string>
 
+		<string>background</string>
 		<string>beveled</string>
 		<string>black</string>
 		<string>blue</string>
@@ -368,6 +376,8 @@
 		<string>pc</string>
 		<string>pencircle</string>
 		<string>pensquare</string>
+		<string>penrazor</string>
+		<string>penspeck</string>
 		<string>pt</string>
 		<string>quartercircle</string>
 		<string>red</string>
